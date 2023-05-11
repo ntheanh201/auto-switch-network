@@ -4,6 +4,10 @@
 
 ./ethernet.sh will turn off the wifi, turn on wired network, switch to manual proxy, enable proxy for apt by default
 
+# Prerequisites
+
+sudo apt install net-tools
+
 # TODO
 
 [] Toggle proxy for Docker
