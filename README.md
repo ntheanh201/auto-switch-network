@@ -8,6 +8,10 @@
 
 sudo apt install net-tools
 
+# Getting started
+1. update proxy in proxy-apt/apt.conf
+2. update network_mode in ./ethernet.sh
+
 # TODO
 
-[] Toggle proxy for Docker
+[ ] Toggle proxy for Docker
